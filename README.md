@@ -8,7 +8,6 @@ The population data is sourced from the [World Bank](https://data.worldbank.org/
 
 ---
 
-## 📊 Output
 
 A bar chart that displays:
 
@@ -16,15 +15,9 @@ A bar chart that displays:
 - Population (in billions) on the Y-axis
 - Each bar labeled with its corresponding population
 
-Example chart:
+Chart:
 
-![Population Bar Chart](./sample_output.png) *(Optional: Include actual image)*
+![Population Bar Chart](./sample_output.png) 
 
 ---
 
-## 🧪 Requirements
-
-Install the required library:
-
-```bash
-pip install matplotlib
