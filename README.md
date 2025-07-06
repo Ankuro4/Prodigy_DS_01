@@ -10,7 +10,6 @@ This project allows you to create a bar chart to visualize the age distribution 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
   
@@ -47,11 +46,6 @@ Use this project to:
 You can customise the visualisation by making the following modifications to the code:
 - Replace 'Age' in df['Age'] with the actual column name containing age data in your dataset.
 - Adjust the appearance of the bar chart, such as labels, colours, and size, to suit your preferences.
-
-# Examples
-Here's an example of how the age distribution bar chart might look:
-
-![download](https://github.com/DIVYA-KUMARI12/Prodigy-Tasks/assets/70780478/d0e7f634-3c89-4988-bf48-a44aaec416c7)
 
 
 
